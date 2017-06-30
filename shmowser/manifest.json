@@ -1,0 +1,6 @@
+{
+  "name": "shmowser",
+  "short_name": "shmowser",
+  "start_url": "/",
+  "display": "standalone"
+}
