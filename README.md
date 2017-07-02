@@ -1,5 +1,8 @@
 # shmowser
 
+# Links
+
+https://cloud.google.com/ruby/rails/using-cloudsql
 
 Steps
 ==> ruby --version ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]
